@@ -1,21 +1,17 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <div className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h2>Bem vindo a mais nova aplicação web</h2>
-        </div>
-        <p className="App-intro">
-         Se prepare que essa novidade irá mudar as suas expectativas!
-        </p>
-      </div>
-    );
-  }
+import './global.css';
+
+import Routes from './routes';
+
+// JSX : Javascript XML(xml = sintax do html)
+
+function App(){  
+  return (
+    <Routes/>
+    
+  );
+ 
 }
 
 export default App;
