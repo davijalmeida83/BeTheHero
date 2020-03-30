@@ -1,6 +1,6 @@
 # Be The Hero
 
-<img scr="https://raw.githubusercontent.com/davijalmeida83/BeTheHero/master/bethehero.jpg" />
+<img scr="bethehero.jpg" />
 
 Projeto social criado durante a semana OmniStack 11.0 nos dia 23/03/2020 a 27/03/2020, semana incrível! onde tivemos o desafio de criar toda uma arquitetura Back-end, Front-end e Mobile, utilizando o ecosistema JavaScript com as tecnologias: Node.js, React e React Native.
 
@@ -8,13 +8,13 @@ Projeto social criado durante a semana OmniStack 11.0 nos dia 23/03/2020 a 27/03
 
 Essas instruções fornecerão uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste. Consulte implantação para obter notas sobre como implantar o projeto em um sistema ativo.
 
-### Pré-requisitos
+## Pré-requisitos
 
 O que você precisa para instalar o software e como instalá-lo
 
-* [Node.js] (https://nodejs.org/en/) - Gerenciador de pacotes.
-* [Visual Studio Code] (https://code.visualstudio.com/) - IDE para codificação e visualização do projeto.
-* [Insomnia Rest] (https://insomnia.rest/) - Cliente Rest para criação de testes das requisições ao back-end.
+* [Node.js](https://nodejs.org/en/) - Gerenciador de pacotes.
+* [Visual Studio Code](https://code.visualstudio.com/) - IDE para codificação e visualização do projeto.
+* [Insomnia Rest](https://insomnia.rest/) - Cliente Rest para criação de testes das requisições ao back-end.
  
 ### Instalando
 
