@@ -2,7 +2,8 @@
 
 ![](https://github.com/davijalmeida83/BeTheHero/blob/master/bethehero.jpg)
 
-Projeto social criado durante a semana OmniStack 11.0 dias 23/03/2020 e 27/03/2020, semana incrível! com o grande desafio de implementar toda uma arquitetura funcional Back-end, Front-end e Mobile, utilizando o ecosistema JavaScript com as tecnologias: Node.js, React e React Native.
+Projeto social criado durante a semana OmniStack 11.0 dias 23/03/2020 a 27/03/2020. 
+Semana incrível! com o grande desafio de implementar toda uma arquitetura funcional Back-end, Front-end e Mobile, utilizando o ecossistema JavaScript com as tecnologias: Node.js, React e React Native.
 
 ## Começando
 
