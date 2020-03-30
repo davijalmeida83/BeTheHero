@@ -18,19 +18,24 @@ O que você precisa para instalar o software e como instalá-lo
  
 ### Instalando
 
-Após todo o ambiente estar pronto, abra o terminal do seu computador, acesse a pasta do projeto que deseja e execute o comando:
+Após todo o ambiente estar pronto, abra o terminal de comando, acesse a pasta do projeto que deseja e execute os comandos:
 
 `` ``
+Para instalação das dependências:
+`` ``
+```
 npm install
-`` ``
-
+```
 Este comando irá instalar todas as depenências contidas no arquivo 'Package.json' da aplicação.
 
-`` ``
-até terminar
-`` ``
+Após a instalação das dependências, execute o projeto.
 
-Termine com um exemplo de como retirar alguns dados do sistema ou usá-los para uma pequena demonstração
+`` ``
+Para executar:
+`` ``
+```
+npm start
+```
 
 ## Executando os testes
 
