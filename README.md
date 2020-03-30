@@ -54,7 +54,7 @@ npm test
 
 ## Controle de versão
 
-Usado o  [GitHub] (https://github.com/) para versionar. Para as versões disponíveis, consulte as [neste repositório] (https://github.com/davijalmeida83/BeTheHero).
+Usado o  [GitHub] (https://github.com/) para versionar. Para as versões disponíveis, consulte as neste repositório (https://github.com/davijalmeida83/BeTheHero).
 
 ## Autores
 
@@ -64,7 +64,7 @@ Veja também a lista de [colaboradores] (https://github.com/davijalmeida83/bethe
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md] (LICENSE.md) para obter detalhes
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md] (https://raw.githubusercontent.com/davijalmeida83/BeTheHero/master/LICENSE) para obter detalhes
 
 ## Agradecimentos
 
