@@ -47,24 +47,24 @@ npm test
 
 ## Construído com
 
-* *[Node.js] (https://nodejs.org/en/) - Gerenciador e interpretador JavaScript.
-* [React] (https://pt-br.reactjs.org/) - Renderizador e controlador do conteúdo web.
-* [React Native] (https://reactnative.dev/) - Controlador e gerador do conteúdo mobile.
+* [Node.js](https://nodejs.org/en/) - Gerenciador e interpretador JavaScript.
+* [React](https://pt-br.reactjs.org/) - Renderizador e controlador do conteúdo web.
+* [React Native](https://reactnative.dev/) - Controlador e gerador do conteúdo mobile.
 
 
 ## Controle de versão
 
-Usado o  [GitHub] (https://github.com/) para versionar. Para as versões disponíveis, consulte as neste repositório (https://github.com/davijalmeida83/BeTheHero).
+Usado o  [GitHub](https://github.com/) para versionar. Para as versões disponíveis, consulte as [Neste repositório](https://github.com/davijalmeida83/BeTheHero).
 
 ## Autores
 
-* ** Davi Almeida ** - * Trabalho inicial * - [BeTheHero] (https://github.com/davijalmeida83/BeTheHero)
+* ** Davi Almeida ** - * Trabalho inicial * - [BeTheHero](https://github.com/davijalmeida83/BeTheHero)
 
-Veja também a lista de [colaboradores] (https://github.com/davijalmeida83/bethehero/contributors) que participaram deste projeto.
+Veja também a lista de [colaboradores](https://github.com/davijalmeida83/bethehero/contributors) que participaram deste projeto.
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md] (https://raw.githubusercontent.com/davijalmeida83/BeTheHero/master/LICENSE) para obter detalhes
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](https://raw.githubusercontent.com/davijalmeida83/BeTheHero/master/LICENSE) para obter detalhes
 
 ## Agradecimentos
 
