@@ -8,9 +8,11 @@ Projeto social criado durante a semana OmniStack 11.0 dias 23/03/2020 e 27/03/20
 
 Essas instruções fornecerão uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste. Consulte implantação para obter notas sobre como implantar o projeto em um sistema ativo.
 
-**OBS-1:**  _A aplicação web serve como um gerenciador dos casos para uma determinada ONG. Acesse através do link Web para obter o seu ID de ONG e controlar os seus incidentes_
+**OBS-1:**  _A aplicação web serve para gerenciar os incidentes de uma determinada ONG. Acesse através do link Web para cadastrar a sua ONG e obter o seu ID de acesso ao sistema_
 
-**OBS-1:**  _A aplicação web não está responsiva, ou seja, suas telas foram projetadas para serem visualizadas no computador, para uso no celular baixe a versão Mobile_
+**OBS-2:**  _Todos os casos cadastrados são listados para os usuários do APP Mobile_
+
+**OBS-3:**  _A aplicação web não está responsiva, ou seja, suas telas foram projetadas para serem visualizadas no computador, para uso no celular baixe a versão Mobile_
 
 
 
