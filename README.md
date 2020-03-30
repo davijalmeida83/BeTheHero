@@ -9,9 +9,10 @@ Projeto social criado durante a semana OmniStack 11.0 dias 23/03/2020 e 27/03/20
 Essas instruções fornecerão uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste. Consulte implantação para obter notas sobre como implantar o projeto em um sistema ativo.
 
 **OBS-1:** _A aplicação web serve como um gerenciador dos casos para uma determinada ONG. Acesse através da Web para obter o seu ID de ong e controlar os seus incidentes_
+
 **OBS-1:** _A aplicação web não é responsiva, ou seja, suas telas foram projetadas para serem visualizadas no computador, para celular baixe a versão Mobile
 
-* **TESTE AQUI AS APLICAÇÕES:  ** [WEB](http://betheherofrontend.netlify.com/) / [MOBILE-ANDROID](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40davij_almeida/bethehero-b8bb1b770d6b4f919926e3165b8c7fbc-signed.apk)
+* **TESTE AQUI AS APLICAÇÕES:**  [WEB](http://betheherofrontend.netlify.com/) / [MOBILE-ANDROID](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40davij_almeida/bethehero-b8bb1b770d6b4f919926e3165b8c7fbc-signed.apk)
 
 ## Pré-requisitos
 
