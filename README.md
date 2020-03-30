@@ -1,6 +1,6 @@
 # Be The Hero
 
-<img scr="bethehero.jpg" />
+![](https://github.com/davijalmeida83/BeTheHero/blob/master/bethehero.jpg)
 
 Projeto social criado durante a semana OmniStack 11.0 nos dia 23/03/2020 a 27/03/2020, semana incrível! onde tivemos o desafio de criar toda uma arquitetura Back-end, Front-end e Mobile, utilizando o ecosistema JavaScript com as tecnologias: Node.js, React e React Native.
 
