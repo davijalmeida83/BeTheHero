@@ -18,15 +18,13 @@ O que você precisa para instalar o software e como instalá-lo
  
 ### Instalando
 
-Uma série de exemplos passo a passo que mostram como obter um ambiente de desenvolvimento em execução
-
-Diga qual será o passo
+Após todo o ambiente estar pronto, abra o terminal do seu computador, acesse a pasta do projeto que deseja e execute o comando:
 
 `` ``
-Dê o exemplo
+npm install
 `` ``
 
-E repita
+Este comando irá instalar todas as depenências contidas no arquivo 'Package.json' da aplicação.
 
 `` ``
 até terminar
