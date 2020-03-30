@@ -12,7 +12,9 @@ Essas instruções fornecerão uma cópia do projeto em execução na sua máqui
 
 **OBS-1:**  _A aplicação web não está responsiva, ou seja, suas telas foram projetadas para serem visualizadas no computador, para uso no celular baixe a versão Mobile_
 
+
 * **TESTE AQUI AS APLICAÇÕES:**  [WEB](http://betheherofrontend.netlify.com/) / [MOBILE-ANDROID](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40davij_almeida/bethehero-b8bb1b770d6b4f919926e3165b8c7fbc-signed.apk)
+
 
 ## Pré-requisitos
 
