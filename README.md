@@ -58,7 +58,7 @@ Usado o  [GitHub](https://github.com/) para versionar. Para as versões disponí
 
 ## Autores
 
-* ** Davi Almeida ** - * Trabalho inicial * - [BeTheHero](https://github.com/davijalmeida83/BeTheHero)
+* **Davi Almeida** - *Trabalho inicial* - [BeTheHero](https://github.com/davijalmeida83/BeTheHero)
 
 Veja também a lista de [colaboradores](https://github.com/davijalmeida83/bethehero/contributors) que participaram deste projeto.
 
