@@ -2,11 +2,15 @@
 
 ![](https://github.com/davijalmeida83/BeTheHero/blob/master/bethehero.jpg)
 
-Projeto social criado durante a semana OmniStack 11.0 nos dia 23/03/2020 a 27/03/2020, semana incrível! onde tivemos o desafio de criar toda uma arquitetura Back-end, Front-end e Mobile, utilizando o ecosistema JavaScript com as tecnologias: Node.js, React e React Native.
+Projeto social criado durante a semana OmniStack 11.0 dias 23/03/2020 e 27/03/2020, semana incrível! com o grande desafio de implementar toda uma arquitetura funcional Back-end, Front-end e Mobile, utilizando o ecosistema JavaScript com as tecnologias: Node.js, React e React Native.
 
 ## Começando
 
 Essas instruções fornecerão uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste. Consulte implantação para obter notas sobre como implantar o projeto em um sistema ativo.
+
+* **TESTE AQUI AS APLICAÇÕES -> ** [WEB](http://betheherofrontend.netlify.com/) / [MOBILE](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40davij_almeida/bethehero-b8bb1b770d6b4f919926e3165b8c7fbc-signed.apk)
+
+**OBS:**_A aplicação web ainda não está responsiva!_
 
 ## Pré-requisitos
 
@@ -15,6 +19,8 @@ O que você precisa para instalar o software e como instalá-lo
 * [Node.js](https://nodejs.org/en/) - Gerenciador de pacotes.
 * [Visual Studio Code](https://code.visualstudio.com/) - IDE para codificação e visualização do projeto.
 * [Insomnia Rest](https://insomnia.rest/) - Cliente Rest para criação de testes das requisições ao back-end.
+* [Expo Client](https://expo.io/tools#client) - Cliente expo para testes da sua aplicação mobile sem a necessidade de compilação.
+* [Expo CLI](https://expo.io/tools#cli) - Servidor local da aplicação mobile / Contrutor e publicador de projetos Mobile.
  
 ### Instalando
 
